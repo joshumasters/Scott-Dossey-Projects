@@ -11,7 +11,7 @@ public class SortedArraySearch
 
     public static boolean contains(String[] data, String searchString)
     {
-        int i = data.length / 2;
+        // int i = data.length / 2;
         while (data[i]) {
             
         }
